@@ -35,3 +35,6 @@ I rasterized the dashboard page and measured the bar lengths at the pixel level,
 
 ## Tool Used
 Power BI Desktop.
+
+
+[Google'a Gitmek İcin Tiklayiniz] (https://google.com)
