@@ -7,8 +7,7 @@ This project is a Power BI dashboard built to help a marketing team understand w
 ## Approach
 Four visualization types were used, each chosen for a specific purpose:
 
-* ### Horizontal bar chart — Average ROI by Campaign Type:
-A bar chart was used to compare a categorical variable (5 campaign types); horizontal orientation keeps the category labels readable.
+* ### Horizontal bar chart — Average ROI by Campaign Type * ###:A bar chart was used to compare a categorical variable (5 campaign types); horizontal orientation keeps the category labels readable.
 
 * Vertical bar chart — Average Conversion Rate by Campaign Type:
 The same categorical structure is shown vertically for a different metric (conversion rate), making the two charts easy to scan side by side.
