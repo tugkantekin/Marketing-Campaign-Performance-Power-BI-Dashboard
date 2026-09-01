@@ -38,9 +38,9 @@ Foodies has the highest average engagement score at 5.51 (20.06%), followed by O
 1 billion impressions, 110 million clicks, 0.08 average conversion rate.
 
 ## Limitations
-**There is no time dimension in this dataset, so trend analysis over time is not possible.**
-**ROI is a single number per campaign type with no cost breakdown (media spend, creative production cost, etc.), so how ROI was calculated cannot be verified.**
-**Customer segments appear to be pre-assigned rather than behavioral; the dashboard does not explain how segments were determined.**
+**There is no time dimension in this dataset, so trend analysis over time is not possible.
+**ROI is a single number per campaign type with no cost breakdown (media spend, creative production cost, etc.), so how ROI was calculated cannot be verified.
+**Customer segments appear to be pre-assigned rather than behavioral; the dashboard does not explain how segments were determined.
 
 ## Tool Used
 Power BI Desktop.
