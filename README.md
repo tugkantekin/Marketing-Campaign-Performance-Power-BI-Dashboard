@@ -1,5 +1,5 @@
 # Marketing-Campaign-Performance-Power-BI-Dashboard
-a roadmap for marketing professionals
+
 ## Overview
 
 This project is a Power BI dashboard built to help a marketing team understand which channels and audience segments deliver the best ROI and engagement. The dashboard compares five campaign types (Influencer, Search, Display, Email, Social Media) and five customer segments (Foodies, Outdoor Adventurers, Fashionistas, Tech Enthusiasts, Health & Wellness).
@@ -7,19 +7,19 @@ This project is a Power BI dashboard built to help a marketing team understand w
 ## Approach
 Four visualization types were used, each chosen for a specific purpose:
 
-### Horizontal bar chart — Average ROI by Campaign Type:### 
+### Horizontal bar chart — Average ROI by Campaign Type:
 A bar chart was used to compare a categorical variable (5 campaign types); horizontal orientation keeps the category labels readable.
 
-### Vertical bar chart — Average Conversion Rate by Campaign Type:###
+### Vertical bar chart — Average Conversion Rate by Campaign Type:
 The same categorical structure is shown vertically for a different metric (conversion rate), making the two charts easy to scan side by side.
 
-### KPI cards (Total Impressions, Total Clicks, Average Conversion Rate):### 
+### KPI cards (Total Impressions, Total Clicks, Average Conversion Rate):
 Cards were used for top-level metrics that need to be communicated as a single number at a glance, without requiring the viewer to interpret a chart.
 
-### Donut chart — Average Engagement Score by Customer Segment:### 
+### Donut chart — Average Engagement Score by Customer Segment:
 A donut chart was chosen to show each segment's share of the total (as a %), with both the absolute score and the percentage labeled per segment.
 
-### Slicer — Campaign Type:###
+### Slicer — Campaign Type:
 An interactive control that lets the user filter the other visuals by a single campaign type.
 
 <img width="320" height="164" alt="Image (1)" src="https://github.com/user-attachments/assets/343e95ad-d3b7-4ee1-9d80-c75b6d4c0512" />
